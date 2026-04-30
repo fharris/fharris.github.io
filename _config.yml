@@ -1,0 +1,4 @@
+title: "My GitHub Pages Site"
+description: "A simple Jekyll website hosted on GitHub Pages"
+theme: minima
+markdown: kramdown
