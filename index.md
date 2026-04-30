@@ -78,10 +78,9 @@ title: Home
 </style>
 
 <section class="hero">
-  <h1>Hi, I’m Fran 👋</h1>
+  <h1>Hi, I’m Fernando Harris 👋</h1>
   <p>
-    Welcome to my GitHub Pages site. I’ve refreshed the design with a modern hero section,
-    cleaner cards, and stronger visual hierarchy to make the homepage feel more polished.
+    Welcome to my GitHub Pages site. I would like to use it to give more details about my professional life. You can always find me on Linkedin and Medium
   </p>
 </section>
 
