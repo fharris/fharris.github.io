@@ -12,3 +12,10 @@ This is a simple starter site for GitHub Pages using Jekyll.
    - Branch: `main`
    - Folder: `/ (root)`
 5. Wait for deployment, then open your site URL
+
+<a href="https://certdirectory.io/profile/fernando-harris-francisco?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/fernando-harris-francisco.svg?style=card&theme=dark">
+    <img alt="Fernando Harris Francisco on CertDirectory" src="https://certdirectory.io/badge/fernando-harris-francisco.svg?style=card">
+  </picture>
+</a>
